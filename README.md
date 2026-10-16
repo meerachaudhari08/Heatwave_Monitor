@@ -1,5 +1,11 @@
 # Heatwave Monitor - Indian Cities
 
+Group Members:
+16010425008: Siri Bhat
+16010425018: Meera Chaudhari
+16010425022: Archi Dave
+16010425032: Vaishnavi Garje
+
 A simple Tkinter + SQLite desktop app showing monthly weather for 96 Indian cities (2020-2025).
 
 ## Files
